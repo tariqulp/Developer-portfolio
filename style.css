@@ -13,7 +13,8 @@
     }
     .half-width{
         width: 50%;
-        padding-left: 30px;
+        padding-left: 50px;
+        padding-bottom: 200px;
     }
     .half-width img{
         width: 90%;
@@ -31,4 +32,12 @@
     .top-banner{
         background-image: url(images/top-banner.png);
         background-repeat: no-repeat;
+    }
+    .dream-big{
+        background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+    .padding{
+        padding-right: 125px;
     }
